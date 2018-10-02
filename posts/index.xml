@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>പപ്പായ</title>
-    <link>https://www.pappaya.in/</link>
-    <description>Recent content on പപ്പായ</description>
+    <title>Posts on പപ്പായ</title>
+    <link>https://www.pappaya.in/posts/</link>
+    <description>Recent content in Posts on പപ്പായ</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&amp;copy; &lt;a href=&#34;https://github.com/natarajmb&#34;&gt;Unnikrishnan&lt;/a&gt; 2018</copyright>
     <lastBuildDate>Tue, 02 Oct 2018 21:54:00 +0530</lastBuildDate>
     
-	<atom:link href="https://www.pappaya.in/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.pappaya.in/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
