@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://www.pappaya.in/about/</loc>
+    <lastmod>2020-02-10T18:33:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pappaya.in/</loc>
+    <lastmod>2020-02-10T18:33:43+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pappaya.in/posts/</loc>
+    <lastmod>2018-10-08T22:08:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pappaya.in/posts/firstpost/</loc>
+    <lastmod>2018-10-08T22:08:42+05:30</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://www.pappaya.in/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://www.pappaya.in/tags/</loc>
+  </url>
+  
+</urlset>
